@@ -1,0 +1,17 @@
+.input {
+    background-color: #dae1fa;;
+    border-radius: 3px;
+    color: #1e1a1a;
+    font-family: nunito;
+    font-weight: bold;
+    font-size: 12pt;
+    height: 28px;
+    border: none;
+    outline: none;
+    box-shadow:  0px 0px 1px 1px #7d8698;
+}
+
+.input::-webkit-outer-spin-button,
+.input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
